@@ -1,3 +1,15 @@
+# 使用指南：
+
+1、Icons的命名本质上不和你的策略组相关联。
+
+2、建议同步到本地，便于阅读
+
+3、Icons地址请使用raw地址
+
+        例如：https://raw.githubusercontent.com/Zhou1317fe5/clash_icons/refs/heads/main/flag/HK_auto.png
+
+- 将图片名称`HK_auto`替换即可
+
 # 预览
 
 <!--start-icons-->
