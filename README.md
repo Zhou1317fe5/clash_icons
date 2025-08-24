@@ -75,4 +75,13 @@
 
 [图标集 (clashverge.dev)](https://www.clashverge.dev/guide/group_icon/group_icon.html#_5)
 
-[Vbaethon/HOMOMIX: Icons for Dashboard, MetacubeX, Zashboard (github.com)](https://github.com/Vbaethon/HOMOMIX)
+https://github.com/Vbaethon/HOMOMIX
+
+https://github.com/DustinWin/ruleset_geodata/releases/tag/icons
+
+https://testingcf.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/
+
+https://github.com/blackmatrix7/ios_rule_script/tree/master/icon/color
+
+[aihdde/Rules@master / icon](https://testingcf.jsdelivr.net/gh/aihdde/Rules@master/icon/)
+
